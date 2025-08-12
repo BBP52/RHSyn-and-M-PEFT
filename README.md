@@ -36,3 +36,6 @@ pre-train a baseline model / Head-tuning / Full-tuning.
 Masked Parameter-Efficient Fine-Tuning.
 
 Ensure all files are placed correctly and named appropriately to enable successful model loading and data reading.
+
+## Spoofing Dataset
+You can download our spoofing dataset [here]( https://pan.baidu.com/s/10_U5ONvrvUpHmzDfSyvGPg). 🔑Extraction code: vrn7. 
