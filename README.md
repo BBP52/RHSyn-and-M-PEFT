@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the implementation of the method proposed in "Unmask Tampering: Efficient Document Tampering Localization under Recapturing Attacks with Real Distortion Knowledge" with pytorch(1.11.0, gpu version). The associated datasets are available upon request.
+This is the implementation of the method proposed in "Changsheng Chen, Wenyu Chen, Yinyin Lin, Bin Li, and Jiwu Huang, "Unmask Tampering: Efficient Document Tampering Localization under Recapturing Attacks with Distortion Knowledge," ACM Conference on Computer and Communications Security (CCS), 2025." with pytorch(1.11.0, gpu version). The associated datasets are available upon request.
 
 ## Environment Request
 
